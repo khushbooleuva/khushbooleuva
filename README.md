@@ -9,7 +9,7 @@ the manual, repetitive parts of payment ops work mostly the kind of work
 that burns analyst time without requiring human judgment.
 
 These repos are my personal design lab. No code (I'm a PM, not an
-engineer) — but plenty of architecture thinking, product decisions,
+engineer) but plenty of architecture thinking, product decisions,
 and system design for anyone curious about AI-native payment tools.
 
 📌 **What I'm building**
