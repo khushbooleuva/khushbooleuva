@@ -5,7 +5,7 @@ checkout flows and alternative payment methods to fraud prevention
 and chargeback operations for retail industries. 
 
 Lately I've been spending my evenings building AI agents that automate
-the manual, repetitive parts of payment ops work — the kind of work
+the manual, repetitive parts of payment ops work mostly the kind of work
 that burns analyst time without requiring human judgment.
 
 These repos are my personal design lab. No code (I'm a PM, not an
