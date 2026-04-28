@@ -2,7 +2,7 @@
 
 I'm a Staff PM who's spent 10+ years making payments work from
 checkout flows and alternative payment methods to fraud prevention
-and chargeback operations for retail industries. 
+and chargeback operations for retail industries and ecommerce. 
 
 Lately I've been spending my evenings building AI agents that automate
 the manual, repetitive parts of payment ops work mostly the kind of work
